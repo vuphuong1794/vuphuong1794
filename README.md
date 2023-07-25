@@ -1,4 +1,4 @@
-<img align="center" width="500" src="[banner.png](https://www.canva.com/design/DAFppjnl9GI/ZmSkM94eXWooM_MqDUowsw/view?utm_content=DAFppjnl9GI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
+
 <h1 align="center">Hi 👋, I'm Phuong Vu</h1>
 <h3 align="center">A developer from Viet Nam</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
