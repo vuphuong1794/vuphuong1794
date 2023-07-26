@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Phuong Vu</h1>
 <h3 align="center">A developer from Viet Nam</h3>
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/gifs/duck-cuteness-baby-82nxC1u2BC8VU1wiZq)">
+<img align="right" alt="coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/gifs/duck-cuteness-baby-82nxC1u2BC8VU1wiZq)]">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&label=Profile%20views&color=0e75b6&style=flat" alt="vuphuong1794" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, Angular, Php, .NET,...**
