@@ -3,8 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&label=Profile%20views&color=0e75b6&style=flat" alt="vuphuong1794" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuphuong1794" alt="vuphuong1794" /></a> </p>
+
+- 💬 Ask me about **react, c++, javascript,...**
+
 - 📫 How to reach me **pvunguyen84@gmail.com**
-<img altalt="coding gift" align="right" width=500px height=500px src="https://media0.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=ecf05e47m6rwdrslcyfrp2v3ozh90itim4deyh9hknwm8vnt&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width=400px align="right" src="https://media1.giphy.com/media/3n9YFESoDT8DXCaIaP/giphy.gif?cid=ecf05e47ut3exsf3ur1gul55fedmgkg8o4vwm4es7hae7w85&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vu" height="30" width="40" /></a>
