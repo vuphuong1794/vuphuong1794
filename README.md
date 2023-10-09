@@ -4,7 +4,7 @@
 - 💬 Ask me about **react, c++, javascript,...**
 
 - 📫 How to reach me **pvunguyen84@gmail.com**
-<img width=400px align="right" src="https://media1.giphy.com/media/3n9YFESoDT8DXCaIaP/giphy.gif?cid=ecf05e47ut3exsf3ur1gul55fedmgkg8o4vwm4es7hae7w85&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img width=400px align="right" src="[https://media1.giphy.com/media/3n9YFESoDT8DXCaIaP/giphy.gif?cid=ecf05e47ut3exsf3ur1gul55fedmgkg8o4vwm4es7hae7w85&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://www.reddit.com/r/Eyebleach/comments/ap8bb6/lil_duckie_would_like_to_say_hello/)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vu" height="30" width="40" /></a>
