@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phuong Vu</h1>
+<h1 align="center">Hi 👋, I'm Vũ Nguyễn Phương</h1>
 <h3 align="center">A developer from Viet Nam</h3>
 <img width=400px align="right" src="https://media4.giphy.com/media/82nxC1u2BC8VU1wiZq/giphy.gif?cid=ecf05e47q190s3wa6s9p39bxsdzwftep5vh1z407bbzt8buu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 💬 Ask me about **react, c++, javascript,...**
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/david vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vu" height="30" width="40" /></a>
 <a href="https://fb.com/vũ nguyễn phương" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vũ nguyễn phương" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vu nguyen phuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vu nguyen phuong" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/phuongvu1794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vu nguyen phuong" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/david vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="david vu" height="30" width="40" /></a>
 </p>
 
