@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vũ Nguyễn Phương</h1>
 <h3 align="center">A developer from Viet Nam</h3>
-<img width=400px align="right" src="https://media4.giphy.com/media/82nxC1u2BC8VU1wiZq/giphy.gif?cid=ecf05e47q190s3wa6s9p39bxsdzwftep5vh1z407bbzt8buu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width=400px align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **react, c++, javascript,...**
 
 - 📫 How to reach me **pvunguyen84@gmail.com**
