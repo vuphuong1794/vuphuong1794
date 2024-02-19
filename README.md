@@ -9,11 +9,12 @@
 ```python
 class David_Vu:
   def __init__(self):
-    self.class = 2026
+    self.class = 2022
     self.school = "UTH 🐘"
     self.pronouns = "he/him"
     self.hobbies = ["basketball", "programming", "music", "Youtube"]
-    self.programming_languages = ["Python", "C++", "JavaScript"]
+    self.programming_languages = ["Python", "C++", "JavaScript", "TypeScript"]
+    self.framework_and_more = ["ReactJs", "ExpressJs", "MySql", "PostgreSql", "MongoDb", "Sass", "TailwindCss", "RestApi", "Git", "NodeJS",...]
 ```
 
 
