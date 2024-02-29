@@ -29,16 +29,16 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
-* [MERN-Booking-Web](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with Reactjs, Expresjs, MongoDB, NodeJS, RestAPI 
+* [MERN-Booking-Web](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI 
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
 * [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone 
-* [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, Css, JS
-* [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in c++ language
-* [ecommerce-shop-php-mysql-](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, mySql, HTML, CSS
+* [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
+* [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
+* [ecommerce-shop-php-mysql-](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, MySQL, HTML, CSS
 * [Hotel_booking](https://github.com/vuphuong1794/Hotel_booking) - Hotel booking project using object-oriented programming with C++
-* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, Typescript, NestJS, TailwindCSS, PostgreSQL  
+* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL  
 * [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
 * [rock-paper-scissors](https://github.com/vuphuong1794/rock-paper-scissors) - Rock-paper-scissors game with HTML, CSS, JS
-* [Basic-REST-API](https://github.com/vuphuong1794/Basic-REST-API) - Learn RESTAPI by building simple Book store API 
+* [Basic-REST-API](https://github.com/vuphuong1794/Basic-REST-API) - Learn RestAPI by building simple Book store API 
 
