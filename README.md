@@ -13,7 +13,7 @@ class David_Vu:
     self.school = "UTH 🐘"
     self.pronouns = "he/him"
     self.hobbies = ["basketball", "programming", "music", "Youtube"]
-    self.programming_languages = ["Python", "C++", "JavaScript", "TypeScript"]
+    self.programming_languages = ["Python", "C++", "C#", "JavaScript", "TypeScript"]
     self.framework_and_more = ["ReactJs", "ExpressJs", "MySql", "PostgreSql", "MongoDb", "Sass", "TailwindCss", "RestApi", "Git", "NodeJS",...]
 ```
 
