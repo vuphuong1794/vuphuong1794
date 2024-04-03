@@ -30,9 +30,10 @@ class David_Vu:
 
 ## ✨ Project Showcase
 * [MERN-Booking-Web](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
-* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL  
+* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL, responsive
 * [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
+* [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
 * [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone 
 * [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
