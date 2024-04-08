@@ -11,8 +11,8 @@ class David_Vu:
   def __init__(self):
     self.class = 2022
     self.school = "UTH 🐘"
-    self.pronouns = "he/him"
-    self.hobbies = ["basketball", "programming", "music", "Youtube", "Gym"]
+    self.majors = "Information Technology"
+    self.hobbies = ["basketball", "programming", "music", "Youtube", ""]
     self.programming_languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "relational database"]
     self.framework_and_more = ["ReactJs", "ExpressJs", "NestJS", "MongoDb", "TailwindCss", "RestAPI", "NodeJS",...]
 ```
