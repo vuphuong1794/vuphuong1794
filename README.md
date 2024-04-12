@@ -35,7 +35,8 @@ class David_Vu:
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
-* [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone 
+* [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone
+* [pokemon-dictionarys](https://github.com/vuphuong1794/pokemon) - pokemon collection and their information
 * [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
 * [ecommerce-shop-php-mysql-](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, MySQL, HTML, CSS
