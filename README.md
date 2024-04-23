@@ -12,9 +12,9 @@ class David_Vu:
     self.class = 2022
     self.school = "UTH 🐘"
     self.majors = "Information Technology"
-    self.hobbies = ["basketball", "programming", "music", "Youtube", "Self Study"]
-    self.programming_languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "relational database"]
-    self.framework_and_more = ["ReactJS", "ExpressJS", "NestJS", "MongoDB", "TailwindCss", "RestAPI", "NodeJS",...]
+    self.hobbies = ["programming", "music", "Youtube", "Self Study"]
+    self.programming_languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "relational database", "MongoDB"]
+    self.framework_and_more = ["ReactJS",, "NextJS "ExpressJS", "NestJS", "TailwindCss", "RestAPI", "NodeJS", "Redux",...]
 ```
 
 
