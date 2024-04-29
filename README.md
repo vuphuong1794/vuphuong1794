@@ -13,8 +13,8 @@ class David_Vu:
     self.school = "UTH 🐘"
     self.majors = "Information Technology"
     self.hobbies = ["programming", "music", "Youtube", "Self Study"]
-    self.programming_languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "relational database", "MongoDB"]
-    self.framework_and_more = ["ReactJS", "NextJS "ExpressJS", "NestJS", "TailwindCss", "RestAPI", Docker, AWS,...]
+    self.programming_languages = ["C++", "JavaScript", "TypeScript", "Relational Database", "MongoDB"]
+    self.Tech = ["ReactJS", "NextJS", "ExpressJS", "NestJS", "RestAPI", "Docker", "AWS",...]
 ```
 
 
