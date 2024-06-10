@@ -1,4 +1,4 @@
-# Welcome to my github page, scroll down to see more interesting things about me  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+# Welcome to my github, scroll down to see more interesting things about me  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img  src="https://i.imgur.com/0pZdc09.png">
 <a href=https://www.linkedin.com/in/david-vu-6b0112248/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&color=blue">
@@ -10,10 +10,10 @@
 class David_Vu:
   def __init__(self):
     self.class = 2022
-    self.school = "UTH 🐘"
+    self.school = "UTH ⚓"
     self.majors = "Information Technology"
-    self.hobbies = ["programming", "music", "Youtube", "Self Study"]
-    self.programming_languages = ["C++", "JavaScript", "TypeScript", "Relational Database", "MongoDB"]
+    self.hobbies = ["programming", "music", "watching movies", "self study"]
+    self.programming = ["C++", "JavaScript", "TypeScript", "Python", "Relational Database", "MongoDB"]
     self.Tech = ["ReactJS", "NextJS", "ExpressJS", "NestJS", "RestAPI", "Docker", "Redis",...]
 ```
 
