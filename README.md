@@ -40,7 +40,7 @@ class David_Vu:
 * [pokemon-dictionarys](https://github.com/vuphuong1794/pokemon) - pokemon collection and their information
 * [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
-* [ecommerce-shop-php-mysql-](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, MySQL, HTML, CSS
+* [ecommerce-shop](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, MySQL, HTML, CSS
 * [Hotel_booking](https://github.com/vuphuong1794/Hotel_booking) - Hotel booking project using object-oriented programming with C++
 * [rock-paper-scissors](https://github.com/vuphuong1794/rock-paper-scissors) - Rock-paper-scissors game with HTML, CSS, JS
 * [Basic-REST-API](https://github.com/vuphuong1794/Basic-REST-API) - Learn RestAPI by building simple Book store API 
