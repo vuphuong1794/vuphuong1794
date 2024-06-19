@@ -14,7 +14,7 @@ class David_Vu:
     self.majors = "Information Technology"
     self.hobbies = ["programming", "music", "watching movies", "self study"]
     self.programming = ["C++", "C#", "JavaScript", "TypeScript", "Python", "Relational Database", "MongoDB"]
-    self.Tech = ["ReactJS", "NextJS", "ExpressJS", "NestJS", "ASP.NET", "Docker", "Redis",...]
+    self.Tech = ["React", "NextJS", "ExpressJS", "NestJS", "ASP.NET", "Docker", "Redis",...]
 ```
 
 
