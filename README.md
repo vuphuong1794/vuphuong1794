@@ -2,7 +2,6 @@
 <img  src="https://i.imgur.com/0pZdc09.png">
 <a href=https://www.linkedin.com/in/david-vu-6b0112248/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&color=blue">
 
-
 👨 My name is David Vu or you can call me Phuong and I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer.
 
 ```python
@@ -18,6 +17,7 @@ class David_Vu:
 
 ## 📈 Github Stats
 
+<img align="right" width="500" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuphuong1794&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vuphuong1794&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
