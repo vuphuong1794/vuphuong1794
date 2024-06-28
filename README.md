@@ -17,7 +17,7 @@ class David_Vu:
 
 ## 📈 Github Stats
 
-<img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuphuong1794&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vuphuong1794&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
