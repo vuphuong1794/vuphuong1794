@@ -33,6 +33,7 @@ class David_Vu:
 * [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
 * [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone
+* [jsonWebToken](https://github.com/vuphuong1794/JsonWebToken) - using jwt to increase user experience, automatically get new tokens without users having to log in again
 * [pokemon-dictionarys](https://github.com/vuphuong1794/pokemon) - pokemon collection and their information
 * [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
