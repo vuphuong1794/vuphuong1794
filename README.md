@@ -25,6 +25,7 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
+* [discord-clone](https://github.com/vuphuong1794/discord-clone) - Full-stack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
 * [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
 * [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL, responsive
 * [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
