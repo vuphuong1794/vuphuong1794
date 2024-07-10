@@ -1,4 +1,4 @@
-# Hi my name is Phuong, i'm a backend developer  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+<h1 align="center"> Hi my name is Phuong, i'm a backend developer  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro"></h1>
 <img  src="https://i.imgur.com/0pZdc09.png">
 <a href=https://www.linkedin.com/in/david-vu-6b0112248/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&color=blue">
 
