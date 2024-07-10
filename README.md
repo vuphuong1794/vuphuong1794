@@ -2,7 +2,7 @@
 <img  src="https://i.imgur.com/0pZdc09.png">
 <a href=https://www.linkedin.com/in/david-vu-6b0112248/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&color=blue">
 
-👨 My name is David Vu or you can call me Phuong and I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer.
+👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer.
 
 ```python
 class David_Vu:
