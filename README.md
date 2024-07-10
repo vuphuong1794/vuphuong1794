@@ -31,6 +31,7 @@ class David_Vu:
 * [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
+* [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
 * [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
 * [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone
