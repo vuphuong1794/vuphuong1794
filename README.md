@@ -12,7 +12,7 @@ class David_Vu:
     self.majors = "Information Technology"
     self.hobbies = ["programming", "music", "watching movies", "self study"]
     self.programming = ["C++", "JavaScript", "TypeScript", "Python", "sql", "nosql"]
-    self.Tech = ["React", "NextJS", "ExpressJS", "NestJS", "github-actions", "Docker", "Redis", trello, swagger,...]
+    self.Tech = ["React", "NextJS", "ExpressJS", "NestJS", "github-actions", "Docker", "Redis", "trello", "swagger",...]
 ```
 
 ## 📈 Github Stats
