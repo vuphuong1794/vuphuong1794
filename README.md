@@ -10,7 +10,7 @@ class David_Vu:
     self.class = 2022
     self.school = "UTH ⚓"
     self.majors = "Information Technology"
-    self.hobbies = ["programming", "music", "watching movies", "self study"]
+    self.hobbies = ["programming", "music", "watching movies", "self study", "problem solving" ]
     self.programming = ["C++", "JavaScript", "TypeScript", "Python", "sql", "nosql"]
     self.Tech = ["React", "NextJS", "ExpressJS", "NestJS", "github-actions", "Docker",
                  "Redis", "trello", "swagger", "Winform",...]
