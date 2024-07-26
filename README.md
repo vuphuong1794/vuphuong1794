@@ -12,7 +12,7 @@ class David_Vu:
     self.majors = "Information Technology"
     self.hobbies = ["programming", "music", "watching movies", "self study", "problem solving" ]
     self.programming = ["C++", "JavaScript", "TypeScript", "C#", "MySQL", "PostgreSQL", "MongoDB"]
-    self.Tech = ["ReactJS", "AngularJS", "ExpressJS", "NestJS", "CI/CD", "Docker",
+    self.Tech = ["ReactJS", "AngularJS (studying)", "ExpressJS", "NestJS", "CI/CD", "Docker",
                  "Redis", "trello", "swagger", "Winform", "WWebSocket", "FireBase"...]
 ```
 
