@@ -10,6 +10,7 @@ class David_Vu:
     self.class = 2022
     self.school = "UTH ⚓"
     self.majors = "Information Technology"
+    self.DayOfBirth = "17/09/2004"
     self.hobbies = ["programming", "music", "watching movies", "self study", "problem solving" ]
     self.programming = ["C++", "JavaScript", "TypeScript", "C#", "MySQL", "PostgreSQL", "MongoDB"]
     self.Tech = ["ReactJS", "AngularJS (studying)", "ExpressJS", "NestJS", "CI/CD", "Docker",
