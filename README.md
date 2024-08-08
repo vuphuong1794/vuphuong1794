@@ -19,11 +19,18 @@ class David_Vu:
                  "Redis", "trello", "swagger", "unit test(jest)", "Winform", "WebSocket", "FireBase"...]
 ```
 <h1 align="center">Technical skills</h1>
-<h3 align="left">Currently learning:
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
+<h3 align="left">Currently learning:</h3>
+ <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
-</h3>
+   <h3> CI/CD </h3>
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
+  </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://image.pngaaa.com/6/3692006-middle.png" alt="angular" width="40" height="40"/>
+  </a>
+  
 <h3>Front-end technologies</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -34,9 +41,6 @@ class David_Vu:
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -102,7 +106,7 @@ class David_Vu:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png" alt="" width="60" height="60" top="-10px"/>
+    <img src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png" alt="" width="80" height="60"/>
   </a>
 </p>
 ## 📈 Github Stats
