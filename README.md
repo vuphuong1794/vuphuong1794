@@ -48,6 +48,9 @@ class David_Vu:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+      <a href="" target="_blank" rel="noreferrer">
+    <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" alt="tailwind" width="40" height="40"/>
+  </a>
 </p>
 <h3>Back-end technologies</h3>
 <p align="left">
@@ -110,6 +113,9 @@ class David_Vu:
   </a>
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeN_47mDvCGLPLuckwhuOFyUZmJIwOetW4c2SXRBKIQPj3bhfsDK2_5lBql7x3DUCzwD8&usqp=CAU" alt="" width="40" height="40"/>
+  </a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="" width="40" height="40"/>
   </a>
 </p>
 ## 📈 Github Stats
