@@ -15,8 +15,6 @@ class David_Vu:
     self.DayOfBirth = "17/09/2004"
     self.hobbies = ["programming", "music", "watching movies", "self study", "problem solving" ]
     self.programming = ["C++", "JavaScript", "TypeScript", "C#", "MySQL", "PostgreSQL", "MongoDB"]
-    self.Tech = ["ReactJS", "AngularJS (studying)", "ExpressJS", "NestJS", "CI/CD(studying)", "Docker",
-                 "Redis", "trello", "swagger", "unit test(jest)", "Winform", "WebSocket", "FireBase"...]
 ```
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:</h3>
