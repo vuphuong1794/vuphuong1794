@@ -21,6 +21,9 @@ class David_Vu:
  <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
    <h3> CI/CD </h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
@@ -63,9 +66,6 @@ class David_Vu:
   </a>
   <a href="https://socket.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="socket.io" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
