@@ -74,6 +74,9 @@ class David_Vu:
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+      <a href="" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/326/224/png-transparent-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle-logo.png" alt="" width="50" height="40"/>
+  </a>
 </p>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
@@ -106,9 +109,6 @@ class David_Vu:
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/326/224/png-transparent-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle-logo.png" alt="" width="50" height="40"/>
   </a>
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeN_47mDvCGLPLuckwhuOFyUZmJIwOetW4c2SXRBKIQPj3bhfsDK2_5lBql7x3DUCzwD8&usqp=CAU" alt="" width="40" height="40"/>
