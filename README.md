@@ -77,6 +77,11 @@ class David_Vu:
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/326/224/png-transparent-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle-logo.png" alt="" width="50" height="40"/>
   </a>
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
+  </a>
+    
 </p>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
@@ -93,7 +98,7 @@ class David_Vu:
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/>
   </a>
 </p>
 <h3>Tools</h3>
@@ -117,7 +122,7 @@ class David_Vu:
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="" width="40" height="40"/>
   </a>
 </p>
-## 📈 Github Stats
+ 📈 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuphuong1794&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vuphuong1794&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
