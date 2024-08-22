@@ -136,13 +136,13 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
-* [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service base on GHTK with Reactjs, expressJS, mysql, nodejs, javascript
+* [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service base on GHTK 
+* [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
 * [discord-clone](https://github.com/vuphuong1794/discord-clone) - Full-stack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
 * [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
 * [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL, responsive
 * [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
-* [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, NodeJS, RestAPI, responsive
 * [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
 * [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
 * [C#-Winform-weatherApp](https://github.com/vuphuong1794/CSharp-winform-weatherApp) - This is a desktop weather app using c#, winform(.Net framework), openweathermap Api.
