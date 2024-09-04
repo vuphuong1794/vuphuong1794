@@ -26,6 +26,7 @@ class David_Vu:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
    <h3> CI/CD </h3>
+   <h3>Microservices</h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
   </a>
