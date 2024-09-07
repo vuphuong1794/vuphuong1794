@@ -137,12 +137,11 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
-* [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service base on GHTK 
+* [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service 
 * [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
 * [discord-clone](https://github.com/vuphuong1794/discord-clone) - Full-stack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
-* [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI, responsive
-* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL, responsive
-* [rubix-dashboard](https://github.com/vuphuong1794/rubix-dashboard) - Rubix Dash Board and Admin panel page, sales revenue
+* [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
+* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
 * [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
@@ -155,6 +154,5 @@ class David_Vu:
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
 * [ecommerce-shop](https://github.com/vuphuong1794/ecommerce-shop-php-mysql-) -Ecommerce Shop with PHP, MySQL, HTML, CSS
 * [Hotel_booking](https://github.com/vuphuong1794/Hotel_booking) - Hotel booking project using object-oriented programming with C++
-* [rock-paper-scissors](https://github.com/vuphuong1794/rock-paper-scissors) - Rock-paper-scissors game with HTML, CSS, JS
-* [Basic-REST-API](https://github.com/vuphuong1794/Basic-REST-API) - Learn RestAPI by building simple Book store API 
+* [rock-paper-scissors](https://github.com/vuphuong1794/rock-paper-scissors) - Rock-paper-scissors game with HTML, CSS
 
