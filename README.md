@@ -18,22 +18,25 @@ class David_Vu:
 ```
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:</h3>
-<img align="right" with="300" src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" />
- <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
+<p align="left">
+    <img align="right" with="300" src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif" />
+     <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-   <h3> CI/CD </h3>
-   <h3>Microservices</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
-  </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="angular" width="90" height="60"/>
+    <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="55" height="40"/>
+    <h4> CI/CD </h4>
+    <h4 align="left">Microservices</h4>
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
+    </a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://image.pngaaa.com/6/3692006-middle.png" alt="angular" width="40" height="40"/>
-  </a>
-  
+        <img src="https://image.pngaaa.com/6/3692006-middle.png" alt="angular" width="40" height="40"/>
+    </a>
+  </p>
 <h3>Front-end technologies</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
