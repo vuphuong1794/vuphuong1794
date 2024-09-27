@@ -89,18 +89,14 @@ class David_Vu:
     <img src="https://w7.pngwing.com/pngs/326/224/png-transparent-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle-logo.png" alt="" width="50" height="40"/>
   </a>
     </a>
-      <a href="" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/>
   </a>
-    
 </p>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -108,8 +104,8 @@ class David_Vu:
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/>
+      <a href="" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
   </a>
 </p>
 <h3>Tools</h3>
