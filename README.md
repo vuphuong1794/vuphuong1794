@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+my+name+is+Phuong,+I'm+a+Full+Stack+Developer!+👋;" />
 </h1>
-<img  src="https://i.imgur.com/0pZdc09.png">
-<a href=https://www.linkedin.com/in/david-vu-6b0112248/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=vuphuong1794&color=blue">
+<a href="https://ibb.co/ydVb2Pm"><img src="https://i.ibb.co/WGsYC5N/nh-ch-p-m-n-h-nh-2024-10-03-095437.png" alt="nh-ch-p-m-n-h-nh-2024-10-03-095437" border="0" width="1200px" align="center"></a>
+
 
 👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer 🖥️
 
