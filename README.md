@@ -130,6 +130,7 @@ class David_Vu:
     <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="" width="40" height="40"/>
   </a>
+    <img src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="" width="80" height="40"/>
 </p>
 
 ## 📈 Github Stats
