@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+my+name+is+Phuong,+I'm+a+Full+Stack+Developer!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&lines=Hi+my+name+is+Phuong,+I'm+a+Full+Stack+Developer!+👋;" />
 </h1>
 <a href="https://ibb.co/ydVb2Pm"><img src="https://i.ibb.co/WGsYC5N/nh-ch-p-m-n-h-nh-2024-10-03-095437.png" alt="nh-ch-p-m-n-h-nh-2024-10-03-095437" border="0" width="1200px" align="center"></a>
 
@@ -12,6 +12,7 @@ class David_Vu:
     self.class = "2022"
     self.school = "UTH ⚓"
     self.majors = "Information Technology"
+    self.fullName = "Vũ Nguyễn Phương"
     self.DayOfBirth = "17/09/2004"
     self.hobbies = ["programming", "music", "watching movies", "self study" ]
 ```
