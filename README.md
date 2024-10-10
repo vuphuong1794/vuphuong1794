@@ -131,6 +131,8 @@ class David_Vu:
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="" width="40" height="40"/>
   </a>
     <img src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="" width="80" height="40"/>
+    <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" altalt="" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=ZYrxKUyruOEupgw5Lr5amgwgBCJq8VXH8r05Qr5CeQc" width="40px" height="40"/>
 </p>
 
 ## 📈 Github Stats
