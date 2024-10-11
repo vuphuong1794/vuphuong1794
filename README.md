@@ -64,6 +64,12 @@ class David_Vu:
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/>
   </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="nextjs" width="50" height="50"/>
+  </a>
   
 </p>
 <h3>Back-end technologies</h3>
@@ -72,45 +78,37 @@ class David_Vu:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" alt="express" width="80" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   </a>
-  <a href="https://socket.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="socket.io" width="40" height="40"/>
-  </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/>
+  </a>
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/326/224/png-transparent-redis-memcached-database-caching-key-value-database-others-miscellaneous-angle-logo.png" alt="" width="50" height="40"/>
   </a>
     </a>
-      <a href="" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
-  </a>
     
 </p>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="nextjs" width="50" height="50"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+      <a href="https://socket.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="socket.io" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/>
+          <a href="" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
   </a>
 </p>
 <h3>Tools</h3>
