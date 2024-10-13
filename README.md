@@ -9,9 +9,7 @@
 ```python
 class David_Vu:
   def __init__(self):
-    self.class = "2022"
     self.school = "UTH ⚓"
-    self.majors = "Information Technology"
     self.fullName = "Vũ Nguyễn Phương"
     self.DayOfBirth = "17/09/2004"
     self.hobbies = ["programming", "music", "watching movies", "self study" ]
