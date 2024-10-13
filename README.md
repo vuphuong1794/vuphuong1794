@@ -110,6 +110,7 @@ class David_Vu:
           <a href="" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
   </a>
+    <img src="https://companieslogo.com/img/orig/U_BIG.D-a3850c12.png?t=1720244494" width="100" height="40"/>
 </p>
 <h3>Tools</h3>
 <p align="left">
