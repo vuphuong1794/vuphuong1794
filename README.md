@@ -46,19 +46,12 @@ class David_Vu:
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-      <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" alt="tailwind" width="40" height="40"/>
-  </a>
-    </a>
       <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/>
   </a>
@@ -68,6 +61,7 @@ class David_Vu:
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="nextjs" width="50" height="50"/>
   </a>
+    <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="50" height="50"/>
   
 </p>
 <h3>Back-end technologies</h3>
