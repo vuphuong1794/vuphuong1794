@@ -12,7 +12,7 @@ class David_Vu:
     self.school = "UTH ⚓"
     self.fullName = "Vũ Nguyễn Phương"
     self.DayOfBirth = "17/09/2004"
-    self.hobbies = ["programming", "music", "watching movies", "self study" ]
+    self.hobbies = ["Programming", "Music", "Watching movies", "Touring" ]
 ```
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:</h3>
