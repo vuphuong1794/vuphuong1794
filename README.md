@@ -4,7 +4,7 @@
 <a href="https://ibb.co/ydVb2Pm"><img src="https://i.ibb.co/WGsYC5N/nh-ch-p-m-n-h-nh-2024-10-03-095437.png" alt="nh-ch-p-m-n-h-nh-2024-10-03-095437" border="0" width="1200px" align="center"></a>
 
 
-👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer 🖥️
+<h3>👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer 🖥️🧑‍💻</h3>
 
 ```python
 class David_Vu:
@@ -102,7 +102,7 @@ class David_Vu:
           <a href="" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/777/274/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo-computer-wallpaper.png" alt="" width="60" height="40"/>
   </a>
-    <img src="https://companieslogo.com/img/orig/U_BIG.D-a3850c12.png?t=1720244494" width="100" height="40"/>
+
 </p>
 <h3>Tools</h3>
 <p align="left">
