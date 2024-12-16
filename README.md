@@ -11,7 +11,7 @@ class David_Vu:
     self.school = "UTH ⚓"
     self.fullName = "Vũ Nguyễn Phương"
     self.DayOfBirth = "17/09/2004"
-    self.hobbies = ["Machine Learning", "Programming", "Music", "Watching movies", "Traveling" ]
+    self.hobbies = ["Cars", "Technology items", "Watching movies", "Traveling" ]
 ```
  
 ### ⚒  Currently learning</h1>
