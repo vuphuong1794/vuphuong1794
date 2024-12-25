@@ -3,7 +3,7 @@
 </h1>
 <a href="https://ibb.co/ydVb2Pm"><img src="https://i.ibb.co/WGsYC5N/nh-ch-p-m-n-h-nh-2024-10-03-095437.png" alt="nh-ch-p-m-n-h-nh-2024-10-03-095437" border="0" width="1200px" align="center"></a>
 
-<h3>👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer at big tech company 🖥️🧑‍💻</h3>
+<h3>👨 I'm studying Information Technology at UTH class of 2022. I'm from Vietnam and my goal is to become a Software Engineer 🧑‍💻 and become car shop owner 🏎️🏍️ </h3>
  
 ```python
 class David_Vu:
