@@ -18,10 +18,10 @@ class David_Vu:
 [![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,next,aws)](https://skillicons.dev)
 
 ### 🍉 Tech Stack    
-[![My Skills](https://skillicons.dev/icons?i=php,react,next,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,bootstrap,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,react,next,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go)](https://skillicons.dev)
 
 ###  🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,jenkins,nginx,ubuntu,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,anaconda)](https://skillicons.dev)
 
 ## 📈 Github Stats
 
