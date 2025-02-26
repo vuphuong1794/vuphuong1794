@@ -15,7 +15,7 @@ class David_Vu:
 ```
  
 ### ⚒  Currently learning</h1>
-[![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,next,aws,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,next,aws,jest)](https://skillicons.dev) 
 
 ### 🍉 Tech Stack    
 [![My Skills](https://skillicons.dev/icons?i=php,react,next,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go)](https://skillicons.dev)
@@ -32,11 +32,10 @@ class David_Vu:
 ## ✨ Project Showcase
 * [SGTravel](https://github.com/vuphuong1794/SGTravel) - FullStack web application designed to help users discover and explore restaurants, tourist attractions, and entertainment venues with HTML, CSS, PHP, Mysql
 * [LOUIS.](https://github.com/vuphuong1794/louis) - FullStack eCommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
-* [discord-clone](https://github.com/vuphuong1794/discord-clone) - FullStack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
 * [hiBooking](https://github.com/vuphuong1794/HiBooking) - FullStack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
 * [rubix](https://github.com/vuphuong1794/rubix) - FullStack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - FullStack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
-* [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
+* [Ranker](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
 * [Json-Web-Token](https://github.com/vuphuong1794/Json-Web-Token) - using JWT to increase user experience, automatically get new tokens without users having to login again
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
