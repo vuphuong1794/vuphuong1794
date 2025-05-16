@@ -30,6 +30,11 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=10">
 
 ## ✨ Project Showcase
+* [Learnity](https://github.com/vuphuong1794/Learnity_FE) - A mobile app about learning forums where people can create posts posting exercises or questions and others can see and help each other
+* [HelloDoc](https://github.com/vuphuong1794/HelloDoc_frontend) - Medical mobile application: health forum, integrated with smart virtual support to help patients predict their illness from their symptoms and find the right doctor to make an appointment
+* [DRIVE_SAFE](https://github.com/vuphuong1794/DRIVE_SAFE) - Mobile app to help prevent drivers from falling asleep while driving integrates computer vision, machine learning, Yolo
+* [Zombie-Apocalypse](https://github.com/vuphuong1794/Zombie-Apocalypse) - Dramatic and attractive Zombie Shooting Game: Players are lost in a maze and must try to find and equip items in chests to try to survive from countless different types of zombies.
+* [Zombie-DoomDays](https://github.com/vuphuong1794/Zombie_DoomDays) - Dramatic and attractive Zombie Shooting Game: Players are lost in a maze and must try to find and equip items in chests to try to survive from countless different types of zombies.
 * [SGTravel](https://github.com/vuphuong1794/SGTravel) - FullStack web application designed to help users discover and explore restaurants, tourist attractions, and entertainment venues with HTML, CSS, PHP, Mysql
 * [LOUIS.](https://github.com/vuphuong1794/louis) - FullStack eCommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
 * [hiBooking](https://github.com/vuphuong1794/HiBooking) - FullStack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
