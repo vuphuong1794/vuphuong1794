@@ -18,7 +18,7 @@ class David_Vu:
 [![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,aws,jest,kotlin,flutter)](https://skillicons.dev) 
 
 ### 🍉 Tech Stack    
-[![My Skills](https://skillicons.dev/icons?i=php,react,next,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,react,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go,flutter,dart)](https://skillicons.dev)
 
 ###  🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,anaconda,opencv,androidstudio,visualstudio,vscode)](https://skillicons.dev)
