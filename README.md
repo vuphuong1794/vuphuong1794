@@ -15,7 +15,7 @@ class David_Vu:
 ```
  
 ### ⚒  Currently learning</h1>
-[![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,aws,jest,kotlin,flutter)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=angular,go,rabbitmq,nestjs,redis,aws,jest,kotlin,flutter,latex)](https://skillicons.dev) 
 
 ### 🍉 Tech Stack    
 [![My Skills](https://skillicons.dev/icons?i=php,react,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,go,flutter,dart)](https://skillicons.dev)
