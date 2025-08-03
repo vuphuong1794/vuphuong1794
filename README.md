@@ -28,19 +28,3 @@ class David_Vu:
 <img src="https://github-readme-stats.vercel.app/api?username=vuphuong1794&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vuphuong1794&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=10">
-
-## ✨ Project Showcase
-* [Learnity](https://github.com/vuphuong1794/Learnity_FE) - A mobile app about learning forums where people can create posts posting exercises or questions and others can see and help each other
-* [HelloDoc](https://github.com/vuphuong1794/HelloDoc_frontend) - Medical mobile application: health forum, integrated with smart virtual support to help patients predict their illness from their symptoms and find the right doctor to make an appointment
-* [DRIVE_SAFE](https://github.com/vuphuong1794/DRIVE_SAFE) - Mobile app to help prevent drivers from falling asleep while driving integrates computer vision, machine learning, Yolo
-* [Zombie-Apocalypse](https://github.com/vuphuong1794/Zombie-Apocalypse) - Dramatic and attractive Zombie Shooting Game: Players are lost in a maze and must try to find and equip items in chests to try to survive from countless different types of zombies.
-* [Zombie-DoomDays](https://github.com/vuphuong1794/Zombie_DoomDays) - Dramatic and attractive Zombie Shooting Game: Players are lost in a maze and must try to find and equip items in chests to try to survive from countless different types of zombies.
-* [SGTravel](https://github.com/vuphuong1794/SGTravel) - FullStack web application designed to help users discover and explore restaurants, tourist attractions, and entertainment venues with HTML, CSS, PHP, Mysql
-* [LOUIS.](https://github.com/vuphuong1794/louis) - FullStack eCommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
-* [hiBooking](https://github.com/vuphuong1794/HiBooking) - FullStack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
-* [rubix](https://github.com/vuphuong1794/rubix) - FullStack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
-* [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - FullStack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
-* [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
-* [Ranker](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
-* [Json-Web-Token](https://github.com/vuphuong1794/Json-Web-Token) - using JWT to increase user experience, automatically get new tokens without users having to login again
-* [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
