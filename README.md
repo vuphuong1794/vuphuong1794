@@ -23,8 +23,8 @@ class David_Vu:
 ###  🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,anaconda,opencv,androidstudio,visualstudio,vscode)](https://skillicons.dev)
 
-## 📈 Github Stats
+## 📈 Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=vuphuong1794&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vuphuong1794&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuphuong1794&theme=tokyonight&layout=compact&langs_count=10">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuphuong1794&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
