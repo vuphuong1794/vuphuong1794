@@ -9,19 +9,20 @@
 class David_Vu:
   def __init__(self):
     self.school = "UTH ⚓"
+    self.company = "APETECHS 🐵"
     self.fullName = "Vũ Nguyễn Phương"
     self.DayOfBirth = "17/09/2004"
     self.hobbies = ["Cars", "Technology items", "Watching movies", "Traveling", "Investing" ]
 ```
  
-### ⚒  Currently learning</h1>
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,nestjs,redis,aws,react)](https://skillicons.dev) 
+### ⚒  Currently working</h1>
+[![My Skills](https://skillicons.dev/icons?i=nestjs,redis,aws,react,postgres,docker,jest)](https://skillicons.dev) 
 
 ### 🍉 Tech Stack    
 [![My Skills](https://skillicons.dev/icons?i=php,react,angular,tailwindcss,materialui,styledcomponents,redux,html,css,js,cpp,ts,java,python,jquery,scss,express,nestjs,nodejs,graphql,apollo,vite,arduino,flutter,dart)](https://skillicons.dev)
 
 ###  🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,anaconda,opencv,androidstudio,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,npm,yarn,bun,babel,vite,netlify,aws,figma,github,gitlab,git,firebase,cloudflare,gcp,githubactions,postman,unity,jest,anaconda,opencv,androidstudio,visualstudio,vscode)](https://skillicons.dev)
 
 ## 📈 Contribution Graph
 
